@@ -1,0 +1,7 @@
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\bin\Debug\DeckofCards.exe.config
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\bin\Debug\DeckofCards.exe
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\bin\Debug\DeckofCards.pdb
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\obj\Debug\DeckofCards.csprojAssemblyReference.cache
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\obj\Debug\DeckofCards.csproj.CoreCompileInputs.cache
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\obj\Debug\DeckofCards.exe
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\DeckofCards\obj\Debug\DeckofCards.pdb
