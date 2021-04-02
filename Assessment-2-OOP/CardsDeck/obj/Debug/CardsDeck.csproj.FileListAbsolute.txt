@@ -1,0 +1,7 @@
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\bin\Debug\CardsDeck.exe.config
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\bin\Debug\CardsDeck.exe
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\bin\Debug\CardsDeck.pdb
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\obj\Debug\CardsDeck.csprojAssemblyReference.cache
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\obj\Debug\CardsDeck.csproj.CoreCompileInputs.cache
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\obj\Debug\CardsDeck.exe
+E:\_Programming\University\oop\Assessment-2-OOP\Assessment-2-OOP\CardsDeck\obj\Debug\CardsDeck.pdb

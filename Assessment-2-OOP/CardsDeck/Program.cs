@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeckofCards
+namespace CardsDeck
 {
-    class Card
+    class Program
     {
+        static void Main(string[] args)
+        {
+            Deck test = new Deck();
+        }
     }
 }

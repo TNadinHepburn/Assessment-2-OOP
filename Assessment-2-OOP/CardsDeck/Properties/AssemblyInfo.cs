@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DeckofCards")]
+[assembly: AssemblyTitle("CardsDeck")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DeckofCards")]
+[assembly: AssemblyProduct("CardsDeck")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("58f97458-ac23-4100-83ea-67e028da708b")]
+[assembly: Guid("23d196de-fcbd-457b-a892-b3f758d1060a")]
 
 // Version information for an assembly consists of the following four values:
 //
