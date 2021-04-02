@@ -11,6 +11,17 @@ namespace CardsDeck
         static void Main(string[] args)
         {
             Deck test = new Deck();
+            Console.WriteLine(test.IsEmpty());
+            Console.WriteLine("--------------------------");
+            test.Shuffle();
+            foreach (Card card in test.Pile)
+            {
+                Console.WriteLine(card.ToString());
+            }
+            Console.WriteLine("--------------------------");
+            test.DealAll();
+            Console.WriteLine("--------------------------");
+            Console.WriteLine(test.IsEmpty());
         }
     }
 }
