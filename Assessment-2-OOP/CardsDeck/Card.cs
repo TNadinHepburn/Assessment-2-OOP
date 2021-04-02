@@ -23,6 +23,7 @@ namespace CardsDeck
 
         public override string ToString()
         {
+            //outputs the value and suit of a card e.g Value: 6 Suit: Heart
             return $"Value: {Value} Suit: {Suit}";
         }
     }
