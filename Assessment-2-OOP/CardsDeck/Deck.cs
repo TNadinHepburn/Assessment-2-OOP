@@ -59,8 +59,15 @@ namespace CardsDeck
                     Pile.Add(new Card(i, suit));
                 }
             }
-            
         }
 
+        public void DealAll()
+        {
+            //deals all remaining cards from the deck
+            while (!IsEmpty())
+            {
+                Console.WriteLine(Deal().ToString());
+            }
+        }
     }
 }
