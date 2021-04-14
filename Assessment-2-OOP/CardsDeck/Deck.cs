@@ -8,13 +8,6 @@ namespace CardsDeck
 {
     class Deck
     {
-        /*
-        **Deck - List<card>
-        ***isempty
-        ***shuffle
-        ***deal
-        */
-
         public List<Card> Pile { get; set; }
 
         public bool IsEmpty()
@@ -61,13 +54,6 @@ namespace CardsDeck
             }
         }
 
-        public void DealAll()
-        {
-            //deals all remaining cards from the deck
-            while (!IsEmpty())
-            {
-                Console.WriteLine(Deal().ToString());
-            }
-        }
+        
     }
 }

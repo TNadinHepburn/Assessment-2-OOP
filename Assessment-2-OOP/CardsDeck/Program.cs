@@ -10,18 +10,19 @@ namespace CardsDeck
     {
         static void Main(string[] args)
         {
-            Deck test = new Deck();
-            Console.WriteLine(test.IsEmpty());
-            Console.WriteLine("--------------------------");
-            test.Shuffle();
-            foreach (Card card in test.Pile)
+            Deck deck = new Deck();
+            Console.WriteLine(deck.IsEmpty());
+            deck.Shuffle();
+            Console.WriteLine("press enter for new card");
+            while (!deck.IsEmpty())
             {
-                Console.WriteLine(card.ToString());
+                Console.WriteLine($"{deck.Deal()}\npress enter for new card");
+                Console.ReadLine();
             }
-            Console.WriteLine("--------------------------");
-            test.DealAll();
-            Console.WriteLine("--------------------------");
-            Console.WriteLine(test.IsEmpty());
+            Console.WriteLine(deck.IsEmpty());
+
         }
     }
+
 }
+

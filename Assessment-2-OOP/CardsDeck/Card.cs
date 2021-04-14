@@ -8,10 +8,6 @@ namespace CardsDeck
 {
     class Card
     {
-        /*
-         **Suit - string 
-         **Value - int
-         */
         public string Suit { get; }
         public int Value { get; }
 
